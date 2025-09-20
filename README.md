@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Google Cloud Professional Data Engineer](https://img.shields.io/badge/Google%20Cloud-Professional%20Data%20Engineer-4285F4?logo=googlecloud&logoColor=white)](https://www.credly.com/badges/a6cef58f-5642-4aca-9a16-248ae239cf64/public_url)
+
 Technologist degree in Systems Analysis and Development with over 6 years of experience in Big Data. Currently expanding expertise in Python and advancing knowledge in cloud technologies.
 
 Over the course of my career, I have gained extensive hands-on experience in the retail and banking sectors, applying both academic knowledge and practical insights from daily operations. I have consistently demonstrated a proactive approach in identifying root causes of challenges, strong written communication skills, and a high level of ownership in every role undertaken.
